@@ -1,6 +1,8 @@
+AnimationTree
+AnimationPlayer
+Camera2D
 Panel
 Sprite2D
-Camera2D
 Button
 AnimatedSprite2D
 CollisionShape2D
